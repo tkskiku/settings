@@ -1,6 +1,8 @@
 autoconf
 awscli
 berkeley-db
+brotli
+c-ares
 cairo
 exiftool
 fontconfig
@@ -11,6 +13,7 @@ gdbm
 gdk-pixbuf
 gettext
 glib
+go
 gobject-introspection
 graphite2
 graphviz
@@ -21,14 +24,18 @@ heroku-node
 hub
 icu4c
 jasper
+jemalloc
 jenv
 jpeg
+jq
+libev
 libffi
 libpng
 libpthread-stubs
 librsvg
 libtiff
 libtool
+libuv
 libx11
 libxau
 libxcb
@@ -38,11 +45,15 @@ libxrender
 libyaml
 lua
 lzo
+m4
 mpdecimal
 mysql-client
+ncurses
 netpbm
+nghttp2
 nkf
 node
+oniguruma
 openjdk
 openjdk@11
 openssl@1.1
@@ -53,6 +64,7 @@ pixman
 pkg-config
 plantuml
 pyenv
+pyenv-virtualenv
 python@3.9
 rbenv
 readline
@@ -63,6 +75,7 @@ sqlite
 sshfs
 tcl-tk
 terraform
+tree
 vim
 watchman
 webp
